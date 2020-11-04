@@ -1,3 +1,3 @@
 # Poll-Website
 
-This project deals with conducting simple polls from anywhere 
+This project is to create a simple website for conducting simple polls from anywhere 
